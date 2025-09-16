@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]( https://www.frontendmentor.io/solutions/desktop-first-product-preview-card-component-jL5MIZ1AWx)
 - Live Site URL: [Add live site URL here](https://oreoluwasim.github.io/Product-Preview-Card-Component/)
 
 ## My process
